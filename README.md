@@ -1,7 +1,8 @@
 # Time-Pass-Portfolio
 
 # Sunny's Portfolio Website
-* **point:** This Portfolio is not responsvie for mobiles.
+* **point:** This Portfolio is not responsvie for mobiles🫤.
+
 ### **Project Description** 📜
 
 This project is a personal portfolio website for a full-stack developer named Sunny.  It showcases Sunny's skills, projects, and experience in a visually appealing and interactive manner. The website is designed to be responsive, working seamlessly across different devices.  It's useful for Sunny to present their work to potential employers or clients and to establish an online presence.  The site includes smooth animations, particle effects, and a custom cursor for an enhanced user experience.
