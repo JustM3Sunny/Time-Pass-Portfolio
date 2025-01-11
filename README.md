@@ -73,6 +73,6 @@ These are loaded via CDN links in the `<head>` section of the HTML.
 Contributions are welcome!  Feel free to open a pull request or suggest improvements through issues.  Please ensure your code adheres to the project's coding style and includes relevant tests.
 
 
-### **Developer Signature** ✍️
+### **Developer** ✍️
 
 Developer: **Sunny** | GitHub: **[JustM3Sunny](https://github.com/JustM3Sunny)**
